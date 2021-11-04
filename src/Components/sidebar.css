@@ -1,0 +1,23 @@
+.sidebar{
+  background-color: rgb(88, 91, 92);
+}
+.nav-item {
+    display: flex;
+    align-items: center;
+    height: 6vh;
+}
+  
+  .nav-item a {
+    text-decoration: none;
+    background: beige;
+    color: white;
+    font-size: 1.1rem;
+    margin-right: 2rem;
+    padding: 6px 16px;
+    border-radius: 5px;
+  }
+  
+  .nav-item a:hover {
+    background: rgb(211, 216, 196);
+    color: white;
+  }
